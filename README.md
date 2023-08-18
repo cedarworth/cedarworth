@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" style="img {display: inline-block;"/>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="200" height="180"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="180"/>
   <h1>Hello there, I am <span style="font-size=36">Tunde Babatunde</span></h1>
 </div>
 
