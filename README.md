@@ -5,11 +5,11 @@
 </div>
 
 
-I am a junior software engineer
+I am a software engineer
 
 <!--- 📫 How to reach me ... --->
 :loudspeaker: You can reach out to me for any enquiry, opportunities and project partnership\
-[Twitter](https://twitter.com/tmcedarworth)\
+[X](https://x.com/tmcedarworth)\
 [Email](mailto:tundemichaelbabatunde@gmail.com)
 
 ## :computer: Tech Skills 
